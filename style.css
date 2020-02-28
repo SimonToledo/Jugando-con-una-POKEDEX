@@ -1,0 +1,23 @@
+body{
+    background-image: url(pokemon-imagen.jpg);
+    background-size: cover;
+}
+.container{
+    align-content: center;
+}
+h2{
+    text-align: center;
+    color:#ffffff;
+    margin-top: 6rem;
+    margin-bottom: 0;
+}
+.form-title{
+    color: #ffffff;
+    text-align: center;
+}
+.form-control{
+    text-align: center;
+}
+.section__button{
+    left:15rem;
+}

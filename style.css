@@ -1,6 +1,10 @@
 body{
     background-image: url(pokemon-imagen.jpg);
     background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', ;
+    color: #ffffff;
 }
 .container{
     align-content: center;
@@ -20,4 +24,12 @@ h2{
 }
 .section__button{
     left:15rem;
+}
+input{
+    margin-top: 1rem;
+}
+
+.button{
+    margin-top: 1rem;
+    margin-left: 40.5rem;
 }

@@ -4,10 +4,23 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Josefin Sans', ;
-    color: #ffffff;
 }
 .container{
     align-content: center;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 7rem;
+}
+.titulo{
+    background-color: #000000;
+    margin-left: 17rem;
+    padding-top: 1rem;
+    width: 13rem;
+    height: 5rem;
+    border-radius: .3rem;
+    margin-left: 35rem;;
 }
 h2{
     text-align: center;
@@ -25,6 +38,31 @@ h2{
 .section__button{
     left:15rem;
 }
+.form-1__name, .form-2__select{
+    width: 13rem;
+    height: 2rem;
+    border-radius: .3rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #000000;
+    align-items: center;
+}
+.main__form-1{
+    margin-left: 17rem;
+    padding-top: 2rem;
+    padding-left: 10rem;
+}
+.main__form-2{
+    margin-left: 17rem;
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+.form-1__imput{
+    width: 17rem;
+    height: 3rem;
+    border-radius: .3rem;
+}
+
 input{
     margin-top: 1rem;
 }
